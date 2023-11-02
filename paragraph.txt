@@ -1,0 +1,7 @@
+Though Python has its own way to evaluate an expression behind the scene, the results of
+a Python expression and its corresponding arithmetic expression are the same. Therefore,
+you can safely apply the arithmetic rules for evaluating a Python expression. Operators
+contained within pairs of parentheses are evaluated first. Parentheses can be nested, in which
+case the expression in the inner parentheses is evaluated first. When more than one operator
+is used in an expression, the following operator precedence rule is used to determine the
+order of evaluation.
