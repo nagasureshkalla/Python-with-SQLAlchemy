@@ -1,0 +1,15 @@
+=========================================================================
+      ✿✿✿ Welcome to the City Population System ✿✿✿
+
+              ⬥ 1. Display cities sorted by population (ascending order)
+              ⬥ 2. Display cities sorted by population (descending order)
+              ⬥ 3. Display cities sorted by name
+              ⬥ 4. Display total population of all the cities
+              ⬥ 5. Display average population of all the cities
+              ⬥ 6. Display city with the highest population
+              ⬥ 7. Display city with the lowest population
+              ⬥ 8. Add a new city population
+              ⬥ 9. Delete a city population
+              ⬥ 10. Exit
+
+=========================================================================
